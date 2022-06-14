@@ -60,3 +60,5 @@ public class Gugudan_Game {
 
 ## 실행 화면
 <img src = "https://user-images.githubusercontent.com/47629333/173512539-34aa02b2-c668-43b2-a97a-369b3af9de64.png" width = "320px" height = "350px">
+
+![image](https://user-images.githubusercontent.com/47629333/173706975-69f1fb72-7d06-4fa8-8f75-e240a1ebdca0.png)
