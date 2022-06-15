@@ -1,5 +1,5 @@
 # Gugudan_Game
-[![JDK](https://img.shields.io/badge/JDK-15.0.2-orange)](https://pypi.org/project/dart-fss/)
+[![JDK](https://img.shields.io/badge/JDK-15.0.2-orange)](https://download.oracle.com/otn/java/jdk/15.0.2%2B7/0d1cfde4252546c6931946de8db48ee2/jdk-15.0.2_windows-x64_bin.exe)
 
 
 랩퍼클래스와 랜덤함수를 이용한 구구단 게임
