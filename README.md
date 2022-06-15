@@ -1,6 +1,6 @@
 # Gugudan_Game
-[![PyPI](https://img.shields.io/pypi/v/dart-fss.svg)](https://pypi.org/project/dart-fss/)
-![PyPI - Python Version](https://img.shields.io/pypi/pyversions/dart-fss.svg)
+[![JDK](https://img.shields.io/badge/JDK-15.0.2-orange)](https://pypi.org/project/dart-fss/)
+
 
 랩퍼클래스와 랜덤함수를 이용한 구구단 게임
 
